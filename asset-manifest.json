@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/speech-to-letter/static/css/main.41dd0a9f.css",
-    "main.js": "/speech-to-letter/static/js/main.2423e503.js",
-    "static/js/787.290b3a05.chunk.js": "/speech-to-letter/static/js/787.290b3a05.chunk.js",
-    "static/media/LetterPaper3.jpg": "/speech-to-letter/static/media/LetterPaper3.81f3218c91c9a2c6951d.jpg",
-    "static/media/LetterPaper1.jpg": "/speech-to-letter/static/media/LetterPaper1.27b28ef1ce1762caaca0.jpg",
-    "static/media/LetterPaper2.jpg": "/speech-to-letter/static/media/LetterPaper2.51abd58f7920b6b38021.jpg",
-    "static/media/LetterPaper4.jpg": "/speech-to-letter/static/media/LetterPaper4.4feea9f94d7e1154ca64.jpg",
-    "static/media/LetterPaper5.jpg": "/speech-to-letter/static/media/LetterPaper5.b330578f7e72d3461861.jpg",
-    "static/media/LetterPaper6.jpg": "/speech-to-letter/static/media/LetterPaper6.e3ed92ab9a60a65cce56.jpg",
-    "index.html": "/speech-to-letter/index.html",
-    "main.41dd0a9f.css.map": "/speech-to-letter/static/css/main.41dd0a9f.css.map",
-    "main.2423e503.js.map": "/speech-to-letter/static/js/main.2423e503.js.map",
-    "787.290b3a05.chunk.js.map": "/speech-to-letter/static/js/787.290b3a05.chunk.js.map"
+    "main.css": "/Speech-To-Letter/static/css/main.41dd0a9f.css",
+    "main.js": "/Speech-To-Letter/static/js/main.2e7aabd2.js",
+    "static/js/787.290b3a05.chunk.js": "/Speech-To-Letter/static/js/787.290b3a05.chunk.js",
+    "static/media/LetterPaper3.jpg": "/Speech-To-Letter/static/media/LetterPaper3.81f3218c91c9a2c6951d.jpg",
+    "static/media/LetterPaper1.jpg": "/Speech-To-Letter/static/media/LetterPaper1.27b28ef1ce1762caaca0.jpg",
+    "static/media/LetterPaper2.jpg": "/Speech-To-Letter/static/media/LetterPaper2.51abd58f7920b6b38021.jpg",
+    "static/media/LetterPaper4.jpg": "/Speech-To-Letter/static/media/LetterPaper4.4feea9f94d7e1154ca64.jpg",
+    "static/media/LetterPaper5.jpg": "/Speech-To-Letter/static/media/LetterPaper5.b330578f7e72d3461861.jpg",
+    "static/media/LetterPaper6.jpg": "/Speech-To-Letter/static/media/LetterPaper6.e3ed92ab9a60a65cce56.jpg",
+    "index.html": "/Speech-To-Letter/index.html",
+    "main.41dd0a9f.css.map": "/Speech-To-Letter/static/css/main.41dd0a9f.css.map",
+    "main.2e7aabd2.js.map": "/Speech-To-Letter/static/js/main.2e7aabd2.js.map",
+    "787.290b3a05.chunk.js.map": "/Speech-To-Letter/static/js/787.290b3a05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41dd0a9f.css",
-    "static/js/main.2423e503.js"
+    "static/js/main.2e7aabd2.js"
   ]
 }
